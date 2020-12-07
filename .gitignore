@@ -1,0 +1,10 @@
+/.gradle
+/.idea
+/build
+/gradle
+/project-game/.idea
+/project-game/build
+/project-game/gradle
+/src
+
+

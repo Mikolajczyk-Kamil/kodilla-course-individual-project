@@ -1,0 +1,3 @@
+rootProject.name = 'individual-kodilla-course-project'
+include 'project-game'
+
