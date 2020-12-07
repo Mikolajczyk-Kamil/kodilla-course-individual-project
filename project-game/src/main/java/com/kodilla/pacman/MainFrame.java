@@ -14,7 +14,7 @@ public class MainFrame extends JFrame {
 
 
     public MainFrame() {
-        super("Pack-Man");
+        super("PAC-MAN");
 
         try {
             BufferedImage img = ImageIO.read(getClass().getClassLoader().getResourceAsStream("animations_images/ghostBlueAnimationLeft.png"));
